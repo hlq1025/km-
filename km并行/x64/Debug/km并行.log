@@ -1,4 +1,4 @@
-﻿生成启动时间为 2018/11/8 星期四 12:41:51。
+﻿生成启动时间为 2018/11/9 星期五 10:24:01。
      1>项目“C:\Users\Administrator\documents\visual studio 2013\Projects\km并行\km并行\km并行.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          E:\softwareinstall\VS2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt km.cpp
@@ -14,4 +14,4 @@
 
 生成成功。
 
-已用时间 00:00:01.11
+已用时间 00:00:01.05

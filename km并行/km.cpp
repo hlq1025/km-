@@ -168,10 +168,10 @@ double AssignmentProblemSolver::solve()
 		//cout << lx[i] << endl;
 		res = res + cost[i*ny + link[i]];
 	}
-	/*for (int i = 0; i < nx; i++)
+	for (int i = 0; i < nx; i++)
 	{
 		cout << link[i] << endl;
-	}*/
+	}
 	double time = ((double)cvGetTickCount() - start) / cvGetTickFrequency();
 	cout << "所花费时间为:" << time << "us" << endl;
 	return res;

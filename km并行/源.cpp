@@ -24,8 +24,8 @@ using namespace cv;
 int main()
 {
 	
-	int N = 100; // tracks
-	int M = 100; // detects
+	int N = 5; // tracks
+	int M = 5; // detects
 	// Random numbers generator initialization
 	
 	// Distance matrix N-th track to M-th detect.
